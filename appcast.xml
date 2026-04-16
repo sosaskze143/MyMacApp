@@ -3,15 +3,16 @@
     <channel>
         <title>MyMacApp Updates</title>
         <item>
-            <title>الإصدار 1.0.1</title>
-            <sparkle:version>1.0.1</sparkle:version>
+            <title>الإصدار 1.0.2</title>
+            <sparkle:version>1.0.2</sparkle:version>
             <description><![CDATA[
                 <ul>
                     <li>تحديث جديد: واجهة مراقبة النظام تعمل الآن.</li>
                     <li>إصلاحات أمنية وتحسينات في الأداء.</li>
+                    <li>تجريب</li>                
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/sosaskze143/MyMacApp/releases/download/v1.0.1/MyMacApp_v1.0.1.dmg" 
+            <enclosure url="https://github.com/sosaskze143/MyMacApp/releases/download/v1.0.2/MyMacApp_v1.0.2.dmg" 
                        sparkle:edSignature="1SPd43RmU15jAzedHnFvLgvy+cjb7kUphiJ67GpaR++k+a9qrP6cJkmDxgcmPnVu5F+MU9EUn4wsSCX5nNXhAA==" 
                        length="1706964" 
                        type="application/octet-stream" />
